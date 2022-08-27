@@ -15,7 +15,7 @@
 
 .logo {
   height: var(--sizeCS);
-  padding: calc(var(--sizeCS) * 0.3);
+  padding: calc(var(--sizeCS) * 0.2);
   will-change: filter;
   position: absolute;
 }
@@ -25,7 +25,7 @@
 }
 
 .circle {
-  height: calc(var(--sizeCS)* 1.6);
+  height: calc(var(--sizeCS)* 1);
   will-change: filter;
 }
 
