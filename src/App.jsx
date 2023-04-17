@@ -13,8 +13,8 @@ function App() {
           <img src={circuloCS} className="circle" alt="Consof logo" />         
         </a>
       </div>
-      <h1 className="mt-5 mb-4">Matriz de Proyectos</h1>
-      <span>Plantilla de proyectos</span>
+      <h1 className="mt-5 mb-4">Página en construcción</h1>
+      <span>Servicio realizado por Consof Chile</span>
     </div>
   )
 }
