@@ -10,6 +10,7 @@ export const ButtonLocal = () => {
                 <a href="https://creta.deloalto.cl/" type="button" className="btn btn-success btn-lg m-2">Creta</a>
                 <a href="https://lapintana.deloalto.cl/" type="button" className="btn btn-danger btn-lg m-2">La Pintana</a>
                 <a href="https://lacisterna.deloalto.cl/" type="button" className="btn btn-warning btn-lg m-2">La Cisterna</a>
+                <a href="https://bodega.deloalto.cl/" type="button" className="btn btn-dark btn-lg m-2">Bodega</a>
             </div>
         </>
     )
