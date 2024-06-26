@@ -17,16 +17,16 @@ function App() {
       <span>Consof Ingenieria</span>
       <div>
         <a href='https://consof.net'>
-          <button 
-            type='button' 
-            className='btn btn-primary btn-lg mt-5' 
+          <button
+            type='button'
+            className='btn btn-primary btn-lg mt-5'
             onclick="window.location='https://consof.net'"
             role='link'>
 
             Ir al TPV
 
           </button>
-          </a>
+        </a>
       </div>
     </div>
   )
