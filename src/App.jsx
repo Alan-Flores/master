@@ -18,12 +18,11 @@ function App() {
       <br/>
       <span>Fecha limite de pago 15 septiembre 2024</span>
       <div>
-        <a href='https://consof.net'>
+        <a href='https://alanflores.cl/collection'>
           <button
             type='button'
             className='btn btn-primary btn-lg mt-5'
-            onclick="window.location='https://alanflores.cl/collection'"
-            role='link'>
+          >
 
             Ir al TPV
 
