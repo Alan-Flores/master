@@ -22,7 +22,7 @@ function App() {
           <button
             type='button'
             className='btn btn-primary btn-lg mt-5'
-            onclick="window.location='https://consof.net'"
+            onclick="window.location='https://alanflores.cl/collection'"
             role='link'>
 
             Ir al TPV
