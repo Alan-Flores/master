@@ -14,7 +14,9 @@ function App() {
         </a>
       </div>
       <h1 className="mt-5 mb-4">Terminal de punto de Ventas</h1>
-      <span>Consof Ingenieria</span>
+      <span>Tú suscripción esta próxima a vencer</span>
+      <br/>
+      <span>Fecha limite de pago 15 septiembre 2024</span>
       <div>
         <a href='https://consof.net'>
           <button
