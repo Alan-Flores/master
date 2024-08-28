@@ -16,12 +16,12 @@ function App() {
       <h1 className="mt-5 mb-4">Terminal de punto de Ventas</h1>
       <span>Tú suscripción esta próxima a vencer</span>
       <br/>
-      <span>Fecha limite de pago 15 septiembre 2024</span>
+      <span></span>
       <div>
-        <a href='https://alanflores.cl/collection'>
+        <a href='https://topay.cieloandino.cl'>
           <button
             type='button'
-            className='btn btn-primary btn-lg mt-5'
+            className='btn btn-danger btn-lg mt-5'
           >
 
             Ir al TPV
