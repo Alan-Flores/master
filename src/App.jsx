@@ -1,5 +1,6 @@
 import consofLogo from './assets/img/consofCS.svg';
 import circuloCS from './assets/img/circuloCS.svg';
+import farmasysIcon from './assets/img/farmasysIcon.svg'
 import './App.css';
 
 function App() {
@@ -9,8 +10,8 @@ function App() {
       <div>
         <a></a>
         <a href="https://www.consofchile.cl/" target="_blank">
-          <img src={consofLogo} className="logo" alt="Consof logo" />
-          <img src={circuloCS} className="circle" alt="Consof logo" />
+          <img src={ farmasysIcon } className="farmasysIcon" alt="Consof logo" />
+          <img src={ circuloCS } className="circle" alt="Consof logo" />
         </a>
       </div>
       <h1 className="mt-5 mb-4">Terminal de punto de Ventas</h1>

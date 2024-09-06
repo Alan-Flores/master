@@ -20,6 +20,14 @@
   position: absolute;
 }
 
+.farmasysIcon {
+  height: var(--sizeCS);
+  padding: calc(var(--sizeCS) * 0.15);
+  will-change: filter;
+  position: absolute;
+  margin-left: 0.5rem;
+}
+
 .circle:hover {
   filter: drop-shadow(0 0 3em #646cffaa);
 }
